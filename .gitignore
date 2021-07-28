@@ -1,0 +1,7 @@
+#pycharm settings
+__pycache__
+.idea
+
+#testing and documenting folders
+trash
+Doc
